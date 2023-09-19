@@ -6,7 +6,9 @@ Default mapping to open the buffer list is < leader >+bb. Hit escape twice to ex
 
 ## Prerequisites:
 Telescope with plenary
+
 Nui.nvim https://github.com/MunifTanjim/nui.nvim
+
 Dressing https://github.com/stevearc/dressing.nvim
 
 ## How to use:
