@@ -2,7 +2,7 @@
 Buffer manager for neovim
 
 ## Note:
-Default mapping to open the buffer list is <leader>+bb. Hit escape twice to exit. simply start typing to fuzzy-search. Ctrl+p and Ctrl+n to scroll through the list.
+Default mapping to open the buffer list is < leader >+bb. Hit escape twice to exit. simply start typing to fuzzy-search. Ctrl+p and Ctrl+n to scroll through the list.
 
 ## Prerequisites:
 Telescope with plenary
