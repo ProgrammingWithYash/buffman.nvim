@@ -72,7 +72,7 @@ function OpenBufferListWindow()
 	end
   
 	vim.ui.select(buffer_names, {
-	  prompt = "Change Buffer",
+	  prompt = "Navigate to a Buffer",
 	}, function(selected)
 	  if selected ~= "" and selected ~= nil then
 		vim.cmd('buffer ' .. selected)
